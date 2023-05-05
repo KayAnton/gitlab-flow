@@ -1,9 +1,5 @@
 # GitLab Flow
 
-***Jadson Santos - jadsonjs@gmail.com***
-
-***Last updated: 16/05/2021***
-
 
 ## Official Documentation
 
